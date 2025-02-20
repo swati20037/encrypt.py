@@ -58,3 +58,6 @@ if password == pas:
     print("Decrypted message:", message)
 else:
     print("YOU ARE NOT AUTHORIZED")
+    # this steganography project in this the secur data hiding using images
+    #give command on cmd pip install opencv-python
+    
